@@ -41,4 +41,4 @@ Install the dependencies using:
 ```bash
 pip install tensorflow scikit-learn matplotlib seaborn wandb tensorboard
 ```
-YouTube link : 
+YouTube link : https://www.youtube.com/watch?v=Bg8GUkyppTs
